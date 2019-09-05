@@ -1,0 +1,8 @@
+twilio:
+  account_sid: <Your Account SID>
+  auth_token: <Auth Token>
+  trial_number: <Your Trial Number>
+
+
+server:
+  port: 8083
